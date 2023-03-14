@@ -1,0 +1,9 @@
+per1="hello"
+per2=25
+per3=76.365
+per4=None
+per5=True
+per6="Error"
+per7=146
+per8=20.1970
+per9=False
